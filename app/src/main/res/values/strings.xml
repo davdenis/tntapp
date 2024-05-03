@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apptnt</string>
+    <string name="registrar">Registrar</string>
+    <string name="productoPista">Producto</string>
+    <string name="hint_usuario">Nombre de usuario</string>
+    <string name="hint_contraseña">Contraseña</string>
+    <string name="boton_login">Iniciar sesión</string>
+    <string name="hola_inicio">¡Hola!</string>
+</resources>
